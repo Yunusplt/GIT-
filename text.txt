@@ -1,2 +1,2 @@
-First line in text.txt
+test-2
 seconf line
